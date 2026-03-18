@@ -13,3 +13,4 @@ class employee:
 sam = employee()
 
 sam.travel("Dhaka")
+print(type(sam))
