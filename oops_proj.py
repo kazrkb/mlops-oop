@@ -58,4 +58,4 @@ class chatbook:
             print("You may have not signed in yet")
         print("\n")
         self.menu()
-obj = chatbook()
+# obj = chatbook()
